@@ -1,9 +1,8 @@
 # AltMusic
 
-**A Java & React-based music information discovery app powered by the Spotify API**  
-Author: **Petros Petrou**  
+**A Java & React-based music information discovery app powered by the Spotify API**   
 University: **University of Cyprus**  
-Course: **ΗΜΥ318 – Programming Principles for Engineers**  
+Course: **ECE318 – Programming Principles for Engineers**  
 Date: **December 2022**
 
 ---
