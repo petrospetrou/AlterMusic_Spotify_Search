@@ -1,0 +1,43 @@
+body {
+  background: #191414;
+}
+
+.btn {
+  border-radius: 17px;
+  margin-top: 2px;
+}
+
+.navbar {
+  background: rgba(241,242,244,0.8);
+  border-style: solid;
+  border-color: #dfe3e7;
+}
+
+.btn-explore {
+  background-color: var(--bs-purple);
+  border-radius: 17px;
+}
+
+.div-hero {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.img-cover {
+  float: left;
+}
+
+div-con {
+  align-content: center;
+}
+
+.card::-webkit-scrollbar{
+  display: none;
+}
+
+.search-item:hover{
+  cursor: pointer;
+}
+

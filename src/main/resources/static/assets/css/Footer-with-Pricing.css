@@ -1,0 +1,22 @@
+.pricing-card .btn {
+  padding: 0;
+  line-height: 1;
+}
+
+.pricing-description {
+  font-size: 12px;
+}
+
+footer {
+  background: rgb(25, 20, 20);
+}
+
+.img-cover {
+  margin-right: 27px;
+  width: 193px;
+  height: -15px;
+}
+
+img {
+}
+
