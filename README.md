@@ -133,11 +133,3 @@ Refer to the `Demo Video.mov` for a full walkthrough.
 
 This repository is part of a university assignment.  
 All rights reserved. This project is proprietary and is not licensed for reuse or distribution without explicit permission from the author.
-
----
-
-## Contact
-
-Petros Petrou  
-University of Cyprus  
-Email: **ppetro02@ucy.ac.cy**
